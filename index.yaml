@@ -3,7 +3,17 @@ entries:
   myfirstchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-17T08:55:59.791856418Z"
+    created: "2021-06-17T09:11:29.450679357Z"
+    description: A Helm chart for Kubernetes 0.1.3
+    digest: 1ebd2d236ca6f1c6eb25a07e7fa847a78eb108f15e891c0161e5c0dd7dae8eab
+    name: myfirstchart
+    type: application
+    urls:
+    - myfirstchart-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-17T09:11:29.449653045Z"
     description: A Helm chart for Kubernetes 0.1.2
     digest: 546e767de90630f4610e22eb21d285e4feea0be585ca9b03d3f352556a725793
     name: myfirstchart
@@ -11,4 +21,4 @@ entries:
     urls:
     - myfirstchart-0.1.2.tgz
     version: 0.1.2
-generated: "2021-06-17T08:55:59.790645305Z"
+generated: "2021-06-17T09:11:29.448348018Z"
